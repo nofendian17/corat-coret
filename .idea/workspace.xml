@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34930f04-8d0b-49c7-98d0-b1b1b619ec88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laradock" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1bKkFp4piDUluKf1s823gBzNWhj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/laradock" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34930f04-8d0b-49c7-98d0-b1b1b619ec88" name="Default Changelist" comment="" />
+      <created>1588388071839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588388071839</updated>
+      <workItem from="1588388077798" duration="7729000" />
+      <workItem from="1588423935891" duration="3103000" />
+    </task>
+    <task id="LOCAL-00001" summary="add gitignore file">
+      <created>1588388325794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588388325794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add skeleton project">
+      <created>1588418787101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588418787101</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modify gitignore">
+      <created>1588418908808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588418908808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore file" />
+    <MESSAGE value="add skeleton project" />
+    <MESSAGE value="modify gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588420343531">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="240" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.735@0.23.1280.735" timestamp="1588420343531" />
+    <state x="399" y="200" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588388586890">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="399" y="200" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.735@0.23.1280.735" timestamp="1588388586890" />
+    <state x="346" y="120" key="#docker-compose.yml:_Compose_Deployment" timestamp="1588424656548">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="346" y="120" key="#docker-compose.yml:_Compose_Deployment/0.23.1280.735@0.23.1280.735" timestamp="1588424656548" />
+    <state x="247" y="23" key="CommitChangelistDialog2" timestamp="1588418908610">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="247" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1588418908610" />
+    <state width="221" height="457" key="HiddenNamespacesPopup" timestamp="1588419410157">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="221" height="457" key="HiddenNamespacesPopup/0.23.1280.735@0.23.1280.735" timestamp="1588419410157" />
+    <state x="463" y="321" key="NewPhpFileDialog" timestamp="1588425935284">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="463" y="321" key="NewPhpFileDialog/0.23.1280.735@0.23.1280.735" timestamp="1588425935284" />
+    <state x="240" y="130" key="Vcs.Push.Dialog.v2" timestamp="1588418910268">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="240" y="130" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1588418910268" />
+    <state x="305" y="82" width="670" height="676" key="search.everywhere.popup" timestamp="1588418179465">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="305" y="82" width="670" height="676" key="search.everywhere.popup/0.23.1280.735@0.23.1280.735" timestamp="1588418179465" />
+  </component>
+</project>
