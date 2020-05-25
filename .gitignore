@@ -1,2 +1,4 @@
 mysql
-.idea
+.idea/
+/src/composer.lock
+/src/package-lock.json
